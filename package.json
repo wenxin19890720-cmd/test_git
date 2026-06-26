@@ -1,0 +1,21 @@
+{
+  "name": "test_git",
+  "version": "1.0.0",
+  "description": "This is a Git repository initialized for testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenxin19890720-cmd/test_git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wenxin19890720-cmd/test_git/issues"
+  },
+  "homepage": "https://github.com/wenxin19890720-cmd/test_git#readme"
+}
